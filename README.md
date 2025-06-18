@@ -38,7 +38,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 | Listing Detailed View |	Complete property details with images and booking form |
 | Simple Checkout View | Streamlined payment and booking confirmation |
 
-## Importance of User-Friendly Design
+## Importance of User-Friendly Design in a booking system
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 ## Figma Design Specifications
@@ -53,6 +53,10 @@ A well-designed booking system reduces friction in the user journey, increases c
 * Primary Font: Circular, Medium (500), 16px
 * Headings: Circular, Bold (700), 24px-32px
 * Secondary Text: Circular, Book (400), 14px
+
+## Importance of identifying design properties of a mock up design
+Identifying design properties ensures consistency, improves developer handoff, supports responsive design, enhances UX, enables reuse, speeds up feedback, and promotes accessibility—leading to accurate, user-friendly, and efficient digital products.
+
 
 ## Project Roles and Responsibilities
 | Role | Responsibilities |
@@ -69,19 +73,19 @@ A well-designed booking system reduces friction in the user journey, increases c
 # UI Component Patterns
 ## Planned Components
 1. **Navbar**
-* Logo
-* Search bar
-* User navigation
-* Responsive menu
-* Property Card
+   - Logo
+   - Search bar
+   - User navigation
+   - Responsive menu
+   - Property Card
 
 2. **Property image**
-* Basic details (price, location, rating)
-* Favorite button
-* Responsive layout
+   - Basic details (price, location, rating)
+   - Favorite button
+   - Responsive layout
 
 3. **Footer**
-* Site links
-* Company information
-* Social media links
-* Copyright information
+   - Site links
+   - Company information
+   - Social media links
+   - Copyright information
